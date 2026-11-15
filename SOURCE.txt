@@ -1,0 +1,5 @@
+来源仓库：https://github.com/mozilla/bleach
+冻结 commit：f0355a7af00500482c5292c6c83290c6a178068d
+许可证：NOASSERTION
+导入日期：2026-11-15
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
